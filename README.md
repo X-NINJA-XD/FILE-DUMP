@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">FILE CLONER <a href="http://electron.atom.io" target="_blank"></a>.</h4>
+<h4 align="center">FILE DUMPING<a href="http://electron.atom.io" target="_blank"></a>.</h4>
 
 ```bash
 pkg update
