@@ -26,6 +26,6 @@ git clone https://github.com/X-NINJA-XD/FILE-DUMP
 
 cd FILE-DUMP
 
-python XD.py
+python FILE-DUMP.py
 ```
 
